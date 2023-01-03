@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek9229&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek9229" /> </p>
 
-<p align="left"> <a href="https://twitter.com/its__abhi__" target="blank"><img src="https://img.shields.io/twitter/follow/its__abhi__?logo=twitter&style=for-the-badge" alt="its__abhi__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamabhishek_t" target="blank"><img src="https://img.shields.io/twitter/follow/iamabhishek_t?logo=twitter&style=for-the-badge" alt="iamabhishek_t" /></a> </p>
 
 - 🌱 I’m currently learning **Web development**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamabhishek_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its__abhi__" height="30" width="40" /></a>
+<a href="https://twitter.com/iamabhishek_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamabhishek_t" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhish23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhish23" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishek_tiwarii._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek_tiwarii._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/iamabhishek23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamabhishek23" height="30" width="40" /></a>
