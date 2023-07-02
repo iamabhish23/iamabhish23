@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek9229&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek9229" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/iamm_abhishekk" target="blank"><img src="https://img.shields.io/twitter/follow/iamabhishek_t?logo=twitter&style=for-the-badge" alt="iamabhishek_t" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamm_abhishekk" target="blank"><img src="https://img.shields.io/twitter/follow/iamm_abhishekk?logo=twitter&style=for-the-badge" alt="iamm_abhishekk" /></a> </p>
 
 - 🌱 I’m currently learning **Web development & DSA.**
 
