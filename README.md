@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://iamabhish23.io)
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate frontend developer and problem solver from India 👨‍💻</h3>
+<h3 align="center">A passionate fullstack developer and problem solver 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabhish23&label=Profile%20views&color=0e75b6&style=flat" alt="iamabhish23" /> </p>
 
