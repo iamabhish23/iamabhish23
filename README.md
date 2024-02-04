@@ -58,11 +58,11 @@
 <h2 align="center">⚡ Leetcode Stats ⚡</h2>
 <br>
 <div align="center">
-  <div style="float: left; width: 50%;">
+  <div style="float: left;">
     <img width="100%" src="https://leetcard.jacoblin.cool/lapor?ext=heatmap&theme=dark" alt="Leetcode Stats">
   </div>
-  <div style="float: right; width: 50%;">
-    <img width="100%" src="https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1" alt="Codeforces Stats Card">
+  <div style="float: right;">
+    <img width="100%" src="https://codeforces-stats-api.herokuapp.com/stats?username=Abhii24&theme=1" alt="Codeforces Stats Card">
   </div>
 </div>
 
