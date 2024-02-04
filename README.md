@@ -66,8 +66,7 @@
 
 <br/>
 
-<hr/>
 
 <h2 align="center">⚡ Leetcode Stats ⚡</h2>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/iamabhish23?ext=heatmap)
