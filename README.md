@@ -77,8 +77,7 @@
 </div>
 
 <br/>
-<div align="center" style="display: flex; justify-content: space-between; align-items: stretch;">
+<div align="center" style="display: flex; justify-content: space-between;">
     <img src="https://leetcard.jacoblin.cool/lapor?ext=heatmap" alt="Leetcode Stats">
-    <img width="auto" src="https://codeforces-readme-stats.vercel.app/api/card?username=Abhii24" alt="Codeforces Stats">
+    <img width="auto" src="https://codeforces-readme-stats.vercel.app/api/card?username=Abhii24" alt="Codeforces Stats" style="height: 100px;">
 </div>
-
