@@ -61,7 +61,7 @@
     <img width="60%" src="https://leetcard.jacoblin.cool/iamabhish23?ext=heatmap" alt="Leetcode Stats">
 </div> -->
 <div align="center" style="display: flex; justify-content: space-between;">
-    <img src="https://leetcard.jacoblin.cool/iamabhish23?ext=heatmap" alt="Leetcode Stats">
+    <img width="auto" src="https://leetcard.jacoblin.cool/iamabhish23?ext=heatmap" alt="Leetcode Stats">
     <img width="auto" src="https://codeforces-readme-stats.vercel.app/api/card?username=Abhii24" alt="Codeforces Stats">
 </div>
 
