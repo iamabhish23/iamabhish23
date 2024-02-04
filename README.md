@@ -1,12 +1,9 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://iamabhish23.io)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iamabhish23.iamabhish23" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek!;" />
 </h1>
-
- <hr/>
 
 <h1 align="center">Hi 👋, I'm Abhishek!</h1>
 <h3 align="center">A passionate Software developer and programmer from India 👨‍💻</h3>
