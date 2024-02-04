@@ -1,4 +1,3 @@
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://iamabhish23.io)
 
 
 <h1 align="center">
