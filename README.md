@@ -75,10 +75,10 @@
 <br/>
 
 <div align="center">
-  <div style="display: inline-block; width: 48%;">
+  <div style="display: inline-block; ">
     <img src="https://leetcard.jacoblin.cool/lapor?ext=heatmap&theme=dark" alt="Leetcode Stats">
   </div>
-  <div style="display: inline-block; width: 48%;">
+  <div style="display: inline-block;">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=redheadphone" alt="Codeforces Stats">
   </div>
 </div>
