@@ -74,11 +74,11 @@
 
 <br/>
 
-<div>
-  <div style="display: inline-block; ">
+<div align="center" style="display: flex; justify-content: space-between;">
+  <div style="flex: 48%;">
     <img src="https://leetcard.jacoblin.cool/lapor?ext=heatmap&theme=dark" alt="Leetcode Stats">
   </div>
-  <div style="display: inline-block;">
+  <div style="flex: 48%;">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=redheadphone" alt="Codeforces Stats">
   </div>
 </div>
