@@ -8,40 +8,38 @@
 
  <hr/>
 
-<h3 align="center">A passionate software developer from India 🇮🇳 </h3>
+<h1 align="center">Hi 👋, I'm Abhishek!</h1>
+<h3 align="center">A passionate Software developer and programmer from India 👨‍💻</h3>
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabhish23&label=Profile%20views&color=0e75b6&style=flat" alt="iamabhish23" /> </p>
 
-<div align="center">
- 
- 🔭 I’m currently working on [ShopifyX: E-commerce project](https://github.com/iamabhish23/ShopifyX-Full-Stack-E-Commerce-Online-Shopping-Platform)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamabhish23" alt="iamabhish23" /></a> </p>
 
- 🌱 I’m currently learning **full Stack development and Machine Learning**
+<p align="left"> <a href="https://twitter.com/iamabhish23" target="blank"><img src="https://img.shields.io/twitter/follow/iamabhish23?logo=twitter&style=for-the-badge" alt="iamabhish23" /></a> </p>
 
- 👨‍💻 This is my portfolio website: [https://my-portfolio-two-blond-65.vercel.app/](https://my-portfolio-two-blond-65.vercel.app/)
+- 🔭 I’m currently working on [ShopifyX: E-commerce project](https://github.com/iamabhish23/ShopifyX-Full-Stack-E-Commerce-Online-Shopping-Platform)
 
- 💬 Ask me about **Java+DSA and full stack development projects**
+- 🌱 I’m currently learning **full Stack development and Machine Learning**
 
- 📫 How to reach me **iamabhishek.tiwari23@gmail.com**
+- 👨‍💻 This is my portfolio website: [https://my-portfolio-two-blond-65.vercel.app/](https://my-portfolio-two-blond-65.vercel.app/)
 
- ⚡ Fun fact **I love to watch Cartoon shows like Doraemon!**
+- 💬 Ask me about **Java+DSA and full stack development projects**
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:iamabhishek.tiwari23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/iamabhish23" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://my-portfolio-two-blond-65.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+- 📫 How to reach me **iamabhishek.tiwari23@gmail.com**
 
- <hr/>
- 
+- ⚡ Fun fact **I love to watch Cartoon shows like Doraemon!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iamabhish23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamabhish23" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamabhish23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamabhish23" height="30" width="40" /></a>
+<a href="https://kaggle.com/iamabhish23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iamabhish23" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/iamabhishek23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamabhishek23" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/abhii24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhii24" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/iamabhish23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamabhish23" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/itsabhishekkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itsabhishekkk" height="30" width="40" /></a>
+</p>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
