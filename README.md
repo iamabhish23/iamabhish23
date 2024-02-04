@@ -68,4 +68,6 @@
 
 <hr/>
 
+<h2 align="center">⚡ Leetcode Stats ⚡</h2>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
