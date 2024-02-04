@@ -59,10 +59,10 @@
 <br>
 <div align="center">
   <div style="float: left;">
-    <img width="100%" src="https://leetcard.jacoblin.cool/lapor?ext=heatmap&theme=dark" alt="Leetcode Stats">
+    <img src="https://leetcard.jacoblin.cool/lapor?ext=heatmap&theme=dark" alt="Leetcode Stats">
   </div>
   <div style="float: right;">
-    <img width="100%" src="https://codeforces-stats-api.herokuapp.com/stats?username=Abhii24&theme=1" alt="Codeforces Stats Card">
+    <img src="https://codeforces-stats-api.herokuapp.com/stats?username=Abhii24&theme=1" alt="Codeforces Stats Card">
   </div>
 </div>
 
