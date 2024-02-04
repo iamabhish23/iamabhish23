@@ -44,8 +44,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,java,python,javascript,typescript,express,firebase,mongodb,c,nextjs,mysql" /><br>
 </div> 
 
-<br/>
-
 <h2 align="center">⚒️ 🐍 My Contributions ⚒️</h2>
 <br>
 <div align="center">
