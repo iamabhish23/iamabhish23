@@ -57,8 +57,12 @@
 
 <h2 align="center">⚡ Leetcode Stats ⚡</h2>
 <br>
-<div align="center">
+<!-- <div align="center">
     <img width="60%" src="https://leetcard.jacoblin.cool/iamabhish23?ext=heatmap" alt="Leetcode Stats">
+</div> -->
+<div align="center" style="display: flex; justify-content: space-between;">
+    <img src="https://leetcard.jacoblin.cool/lapor?ext=heatmap" alt="Leetcode Stats">
+    <img width="60%" src="https://codeforces-readme-stats.vercel.app/api/card?username=Abhii24" alt="Codeforces Stats">
 </div>
 
 <br/>
@@ -74,7 +78,3 @@
 
 <br/>
 
-<div align="center" style="display: flex; justify-content: space-between;">
-    <img src="https://leetcard.jacoblin.cool/lapor?ext=heatmap&theme=dark" alt="Leetcode Stats">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Abhii24" alt="Codeforces Stats">
-</div>
