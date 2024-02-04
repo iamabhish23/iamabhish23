@@ -53,8 +53,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iamabhish23/iamabhish23/output/github-contribution-grid-snake.svg" />
   
 </div>
-<br>
-
 
 <!-- <div align="center">
     <img width="40%" src="https://leetcard.jacoblin.cool/iamabhish23?ext=heatmap" alt="Leetcode Stats">
@@ -67,7 +65,6 @@
 </div>
 
 <br/> -->
-
 
 <h2 align="center">⚡ Coding Stats ⚡</h2>
 <br>
