@@ -6,23 +6,25 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek!;" />
 </h1>
 
+ <hr/>
+
 <h3 align="center">A passionate software developer from India 🇮🇳 </h3>
 
 <br/>
 
 <div align="center">
  
- - 🔭 I’m currently working on [ShopifyX: E-commerce project](https://github.com/iamabhish23/ShopifyX-Full-Stack-E-Commerce-Online-Shopping-Platform)
+ 🔭 I’m currently working on [ShopifyX: E-commerce project](https://github.com/iamabhish23/ShopifyX-Full-Stack-E-Commerce-Online-Shopping-Platform)
 
-- 🌱 I’m currently learning **full Stack development and Machine Learning**
+ 🌱 I’m currently learning **full Stack development and Machine Learning**
 
-- 👨‍💻 This is my portfolio website: [https://my-portfolio-two-blond-65.vercel.app/](https://my-portfolio-two-blond-65.vercel.app/)
+ 👨‍💻 This is my portfolio website: [https://my-portfolio-two-blond-65.vercel.app/](https://my-portfolio-two-blond-65.vercel.app/)
 
-- 💬 Ask me about **Java+DSA and full stack development projects**
+ 💬 Ask me about **Java+DSA and full stack development projects**
 
-- 📫 How to reach me **iamabhishek.tiwari23@gmail.com**
+ 📫 How to reach me **iamabhishek.tiwari23@gmail.com**
 
-- ⚡ Fun fact **I love to watch Cartoon shows like Doraemon!**
+ ⚡ Fun fact **I love to watch Cartoon shows like Doraemon!**
 
  </div>
  
