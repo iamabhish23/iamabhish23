@@ -57,9 +57,8 @@
 
 <h2 align="center">Leetcode Stats</h2>
 <br/>
-<div align="center">
+
     ![](https://leetcard.jacoblin.cool/iamabhish23?ext=heatmap)
-</div> 
 
 <br/>
 
