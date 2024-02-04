@@ -55,6 +55,12 @@
 </div>
 <br>
 
+<h2 align="center">⚡ Leetcode Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width="100%" src="https://leetcard.jacoblin.cool/JacobLinCool?theme=light" alt="Leetcode Stats">
+</div>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -65,15 +71,5 @@
 </div>
 
 <br/>
+<hr/>
 
-
-<h2 align="center">⚡ Leetcode Stats ⚡</h2>
-
-<div align="center">
-  <img width="100%" src="https://leetcard.jacoblin.cool/iamabhish23?theme=nord" alt="Leetcode Stats">
-</div>
-
-
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/iamabhish23?ext=heatmap)
