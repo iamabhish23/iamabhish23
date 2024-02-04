@@ -58,12 +58,7 @@
 <h2 align="center">⚡ Leetcode Stats ⚡</h2>
 <br>
 <div align="center">
-  <div style="float: left;">
-    <img src="https://leetcard.jacoblin.cool/lapor?ext=heatmap&theme=dark" alt="Leetcode Stats">
-  </div>
-  <div style="float: right;">
-    <img src="https://codeforces-stats-api.herokuapp.com/stats?username=Abhii24&theme=1" alt="Codeforces Stats Card">
-  </div>
+    <img width="70%" src="https://leetcard.jacoblin.cool/lapor?ext=heatmap&theme=dark" alt="Leetcode Stats">
 </div>
 
 
@@ -79,5 +74,4 @@
 
 <br/>
 <hr/>
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
 
