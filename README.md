@@ -58,7 +58,7 @@
 <h2 align="center">⚡ Leetcode Stats ⚡</h2>
 <br>
 <div align="center">
-    <img width="60%" src="https://leetcard.jacoblin.cool/abhish23?ext=heatmap" alt="Leetcode Stats">
+    <img width="60%" src="https://leetcard.jacoblin.cool/iamabhish23?ext=heatmap" alt="Leetcode Stats">
 </div>
 
 <br/>
