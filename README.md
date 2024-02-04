@@ -79,4 +79,5 @@
 
 <br/>
 <hr/>
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
 
