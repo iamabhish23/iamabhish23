@@ -58,10 +58,10 @@
 <h2 align="center">⚡ Leetcode Stats ⚡</h2>
 <br>
 <div align="center">
-    <img width="70%" src="https://leetcard.jacoblin.cool/lapor?ext=heatmap&theme=dark" alt="Leetcode Stats">
+    <img width="60%" src="https://leetcard.jacoblin.cool/lapor?ext=heatmap" alt="Leetcode Stats">
 </div>
 
-
+<br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -73,5 +73,4 @@
 </div>
 
 <br/>
-<hr/>
 
