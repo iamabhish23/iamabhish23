@@ -72,8 +72,8 @@
 <h2 align="center">⚡ Coding Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=410 src="https://leetcard.jacoblin.cool/iamabhish23?ext=heatmap" alt="streak stats"/>
-  <img width=370 height="260" src="https://codeforces-readme-stats.vercel.app/api/card?username=Abhii24" alt="readme stats" />
+  <img width=390 src="https://leetcard.jacoblin.cool/iamabhish23?ext=heatmap" alt="streak stats"/>
+  <img width=390 height=260 src="https://codeforces-readme-stats.vercel.app/api/card?username=Abhii24" alt="readme stats" />
   <br/>
 </div>
 
