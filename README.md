@@ -74,7 +74,7 @@
 
 <br/>
 
-<div align="center">
+<div>
   <div style="display: inline-block; ">
     <img src="https://leetcard.jacoblin.cool/lapor?ext=heatmap&theme=dark" alt="Leetcode Stats">
   </div>
