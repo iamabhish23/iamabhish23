@@ -56,11 +56,8 @@
 <br>
 
 <h2 align="center">Leetcode Stats</h2>
-<br/>
 
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
-
-<br/>
+    ![Leetcode Stats](https://leetcard.jacoblin.cool/iamabhish23?ext=heatmap)
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
