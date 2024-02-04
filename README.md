@@ -58,7 +58,7 @@
 <h2 align="center">Leetcode Stats</h2>
 <br/>
 
-    ![](https://leetcard.jacoblin.cool/iamabhish23?ext=heatmap)
+    ![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 
 <br/>
 
