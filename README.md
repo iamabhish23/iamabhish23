@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Hey 👋, I'm Abhishek</h1>
 
 <h3 align="center">
@@ -56,7 +56,6 @@ Software Engineer • Full Stack Developer • Competitive Programming Enthusias
 ### 📊 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamabhish23&show_icons=true&theme=tokyonight" />
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabhish23&theme=tokyonight" />
 </p>
@@ -78,7 +77,4 @@ while(!success){
     keepLearning();
     keepBuilding();
 }
-````
 
-```
-```
